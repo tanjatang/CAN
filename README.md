@@ -1,3 +1,3 @@
 # CVUCA
 
-![image](http://github.com/tanjatang/CVUCA/models/FR1.PNG)
+![image](https://github.com/tanjatang/CVUCA/blob/main/models/FR1.PNG)
