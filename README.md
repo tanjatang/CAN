@@ -1,3 +1,3 @@
 # CAN
 
-![image](https://github.com/tanjatang/CAN/blob/main/models/Framework%20(2).pdf)
+![image](https://github.com/tanjatang/CAN/blob/main/models/framwork.PNG)
