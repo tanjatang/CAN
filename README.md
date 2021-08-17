@@ -6,7 +6,7 @@
 ![image](https://github.com/tanjatang/CAN/blob/main/models/co-attention.PNG)
 
 
-#### Citation
+## Citation
 
 If you find our work useful for you, please cite it as:
 ----
