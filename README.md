@@ -15,7 +15,7 @@ If you find our work useful for you, please cite it as:
 @inproceedings{tang2021,
   title={Interpretable Visual Understanding with Cognitive Attention Network},
   author={Tang, Xuejiao and Zhang, Wenbin and Yu, Yi and Turner, Kea and Derr, Tyler and Wang, Mengyu and Ntoutsi, Eirini},
-  journal={International Conference on Artificial Neural Networks},
+  conference={International Conference on Artificial Neural Networks},
   year={2021}
 }
 ```
