@@ -1,5 +1,5 @@
 # CAN
-<!-- : Interpretable Visual Understanding with Cognitive Attention Network -->
+: Interpretable Visual Understanding with Cognitive Attention Network
 
 ![image](https://github.com/tanjatang/CAN/blob/main/models/framwork.PNG)
 
